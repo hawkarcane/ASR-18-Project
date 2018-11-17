@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------------------------------------------------------------
+calculated accuracy for ./test/mfcc/test.hdf ./models/with/mfcc/064 is  = 0.14839923836514193
+calculated accuracy for ./test/mfcc_delta/test.hdf ./models/with/mfcc_delta/064 is  = 0.21740468493999912
+calculated accuracy for ./test/mfcc_delta_delta/test.hdf ./models/with/mfcc_delta_delta/064 is  = 0.2445844219102865
+---------------------------------------------------------------------------------------------------------------------------------------
+calculated accuracy for ./test/mfcc/test.hdf ./models/without/mfcc/002 is  = 0.02230660231147323
+calculated accuracy for ./test/mfcc/test.hdf ./models/without/mfcc/004 is  = 0.019713944117256344
+calculated accuracy for ./test/mfcc/test.hdf ./models/without/mfcc/008 is  = 0.02017668157463579
+calculated accuracy for ./test/mfcc/test.hdf ./models/without/mfcc/016 is  = 0.01860913076207767
+calculated accuracy for ./test/mfcc/test.hdf ./models/without/mfcc/032 is  = 0.017349333569499182
+calculated accuracy for ./test/mfcc/test.hdf ./models/without/mfcc/064 is  = 0.026918478501527697
+calculated accuracy for ./test/mfcc/test.hdf ./models/without/mfcc/128 is  = 0.024478590089890624
+calculated accuracy for ./test/mfcc/test.hdf ./models/without/mfcc/256 is  = 0.020832041801355002
+calculated accuracy for ./test/mfcc_delta/test.hdf ./models/without/mfcc_delta/064 is  = 0.21177434353274588
+calculated accuracy for ./test/mfcc_delta_delta/test.hdf ./models/without/mfcc_delta_delta/064 is  = 0.2415113138201302
+---------------------------------------------------------------------------------------------------------------------------------------
